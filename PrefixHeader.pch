@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  LessonDouban
+//
+//  Created by lanou3g on 16/6/27.
+//  Copyright © 2016年 hezhongcheng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <AFNetworking.h>
+
+#import "NetWorkRequest.h"
+//数据的接口
+#import "RequestUrl.h"
+
+#import "CommonString.h"
+
+#import <UIImageView+AFNetworking.h>
+
+#endif /* PrefixHeader_pch */
